@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miwsyed
 - 👀 I’m interested in MERN stack web development
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on React js projects
 - 📫 How to reach me miwsyed@gmail.com
 
 <!---
